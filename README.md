@@ -40,7 +40,6 @@ Born in Iran, currently based in Turkey, I'm a Computer Programming graduate wit
 
 - Email: ssasanpour99@gmail.com
 - LinkedIn: [/realsinasnp](https://www.linkedin.com/in/realsinasnp)
-- GitHub: [/RealSinaSnp](https://github.com/RealSinaSnp)
 
 
 
