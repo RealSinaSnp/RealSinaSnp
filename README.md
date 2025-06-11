@@ -34,11 +34,6 @@ Born in Iran, currently based in Turkey, I'm a Computer Programming graduate wit
 - German  (Intermediate)
 - Russian (Beginner)
 
-## 🧠 Mindset
-
-> I don’t wait for permission — I build, break, and rebuild until it works.  
-> My sleep-deprived mind ships faster than most “scrum-certified” teams.
-
 ---
 
 ## 📫 Contact Me
