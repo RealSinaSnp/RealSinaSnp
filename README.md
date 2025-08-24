@@ -5,11 +5,11 @@ Born in Iran, currently based in Turkey, I'm a Computer Programming graduate wit
 
 ## 💻 Tech Stack
 
-- **Frontend:** React, Next.js, Tailwind CSS, TypeScript, JavaScript, HTML/CSS
-- **Backend:** Node.js, MongoDB, MySQL, RESTful APIs
+- **Frontend:** React, NextJS, Tailwind, TypeScript, JavaScript, HTML/CSS
+- **Backend:** .Net Core, PHP
 - **DevOps:** Docker, GitHub Actions (CI/CD), Linux (Ubuntu VPS), Nginx
-- **Tools:** Git, VS Code
-- **Other Skills:**  Git, RESTful APIs, Agile Development
+- **Tools:** Git
+- **Other Skills:**  MongoDB, MySQL, RESTful APIs, Agile Development
 
 <br>
 
@@ -25,6 +25,7 @@ Born in Iran, currently based in Turkey, I'm a Computer Programming graduate wit
 ## 📌 Live Projects
 
 - [Personal Website & Blog](https://sinasnp.com) — Full-stack app built with React, Node.js, MongoDB, and Docker
+- [Image WebApp](https://imgsinasnp.com) — Full-stack app built with NextJS and .NET
 
 ## 🌍 Languages
 
