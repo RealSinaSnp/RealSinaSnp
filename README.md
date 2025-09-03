@@ -25,7 +25,7 @@ Born in Iran, currently based in Turkey, I'm a Computer Programming graduate wit
 ## 📌 Live Projects
 
 - [Personal Website & Blog](https://sinasnp.com) — Full-stack app built with React, Node.js, MongoDB, and Docker
-- [Image WebApp](https://imgsinasnp.com) — Full-stack app built with NextJS and .NET
+- [Image WebApp](https://img.sinasnp.com) — Full-stack app built with NextJS and .NET
 
 ## 🌍 Languages
 
