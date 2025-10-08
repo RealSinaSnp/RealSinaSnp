@@ -1,9 +1,9 @@
-# 👋 Hey, I'm Sina Sanpour
+# Hey, I'm Sina Sanpour
 
 I'm a self-driven full-stack developer with a focus on **React** and **.Net Core**. 
 Born in Iran, currently based in Turkey, a Computer Programming graduate with experience building web applications from scratch — both frontend and backend.
 
-## 💻 Tech Stack
+## Tech Stack
 
 - **Frontend:** React, NextJS, Tailwind
 - **Backend:** .Net
@@ -27,7 +27,7 @@ Born in Iran, currently based in Turkey, a Computer Programming graduate with ex
 - German  (Intermediate)
 - Russian (Beginner)
 
----
+<br>
 
 ## Contact Me
 
