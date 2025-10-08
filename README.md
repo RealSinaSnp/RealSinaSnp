@@ -1,33 +1,25 @@
 # 👋 Hey, I'm Sina Sanpour
 
-I'm a self-driven full-stack developer with a focus on **React** and **Next.js**. 
-Born in Iran, currently based in Turkey, I'm a Computer Programming graduate with over **3 years of experience** building web applications from scratch — both frontend and backend.
+I'm a self-driven full-stack developer with a focus on **React** and **.Net Core**. 
+Born in Iran, currently based in Turkey, a Computer Programming graduate with experience building web applications from scratch — both frontend and backend.
 
 ## 💻 Tech Stack
 
-- **Frontend:** React, NextJS, Tailwind, TypeScript, JavaScript, HTML/CSS
-- **Backend:** .Net Core, PHP
+- **Frontend:** React, NextJS, Tailwind
+- **Backend:** .Net
+- **Database:** MySQL, Mongodb, redis
 - **DevOps:** Docker, GitHub Actions (CI/CD), Linux (Ubuntu VPS), Nginx
 - **Tools:** Git
-- **Other Skills:**  MongoDB, MySQL, RESTful APIs, Agile Development
-
-<br>
-
-## 🛠 What I Do
-
-- Build and deploy production-ready web apps on my own Linux server
-- Handle full CI/CD pipelines using Docker & GitHub Actions
-- Create responsive and moedrn user interfaces
-- Write clean, modular, and well-documented code
-- Fast-learner, fast-paced, team-worker
+- **Other Skills:**  RESTful APIs, Agile Development
 
 
-## 📌 Live Projects
+## Live Projects
 
-- [Personal Website & Blog](https://sinasnp.com) — Full-stack app built with React, Node.js, MongoDB, and Docker
-- [Image WebApp](https://img.sinasnp.com) — Full-stack app built with NextJS and .NET
+- [Personal Website & Blog](https://sinasnp.com) — Page where I've put info about myself and also post blogs.
+- [Image WebApp](https://img.sinasnp.com) — Full-stack app to upload, edit and custom-share images.
+- [FileUp](https://upload.sinasnp.com) — Service built to store files both for general purposes, and for hosting shared images for my image app project.
 
-## 🌍 Languages
+## Languages
 
 - Persian (Native)
 - Turkish (Advanced)
@@ -37,7 +29,7 @@ Born in Iran, currently based in Turkey, I'm a Computer Programming graduate wit
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 - Email: ssasanpour99@gmail.com
 - LinkedIn: [/realsinasnp](https://www.linkedin.com/in/realsinasnp)
