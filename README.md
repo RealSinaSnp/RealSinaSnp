@@ -1,15 +1,15 @@
-# Hey, I'm Sina Sanpour
+# Hey, I'm Sina Sasanpour
 
 I'm a self-driven full-stack developer with a focus on **React** and **.Net Core**. 
 Born in Iran, currently based in Turkey, a Computer Programming graduate with experience building web applications from scratch — both frontend and backend.
 
 ## Tech Stack
 
-- **Frontend:** React, NextJS, Tailwind
-- **Backend:** .Net
-- **Database:** MySQL, Mongodb, redis
-- **DevOps:** Docker, GitHub Actions (CI/CD), Linux (Ubuntu VPS), Nginx
-- **Tools:** Git
+- **Frontend:** React (TS), NextJS, Tailwind
+- **Backend:** .Net, Node.js
+- **Database:** MySQL, Postgres, SQLite, Mongodb, redis
+- **DevOps:** Docker, GitHub Actions (CI/CD), Linux (Ubuntu), Nginx
+<!-- - **Tools:** Git -->
 - **Other Skills:**  RESTful APIs, Agile Development
 
 
@@ -18,12 +18,13 @@ Born in Iran, currently based in Turkey, a Computer Programming graduate with ex
 - [Personal Website & Blog](https://sinasnp.com) — Page where I've put info about myself and also post blogs.
 - [Image WebApp](https://img.sinasnp.com) — Full-stack app to upload, edit and custom-share images.
 - [FileUp](https://upload.sinasnp.com) — Service built to store files both for general purposes, and for hosting shared images for my image app project.
+- [FaalAkademi](https://faalakademi.online/) — Freelance project for a Turkish life-coaching academy.
 
 ## Languages
 
 - Persian (Native)
-- Turkish (Advanced)
 - English (Advanced)
+- Turkish (Advanced)
 - German  (Intermediate)
 - Russian (Beginner)
 
